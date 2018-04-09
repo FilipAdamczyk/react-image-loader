@@ -1,0 +1,6 @@
+{
+  "name": "loading-image",
+  "dependencies": {
+    "react": "^15.3.1"
+  }
+}
